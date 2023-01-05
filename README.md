@@ -26,7 +26,7 @@ XNA was performed on the given txt files. Entities were detected using spacy and
 </details>
 
 ### Findings
-Based on first book on the series [Knife of Never Letting Go](https://github.com/aaronkrishh/Network-Analysis-of-Chaos-Walking-Series/blob/main/Books/1_the_knife_of_never_letting_go_-__book_in_pdf__patrick_ness.txt), we are able to determine each nodes degree centrality of each node. The degree centrality reperesents how important each node is within the graph (A higher number indicates an important node) ![Alt text](centraility_plot_book_1.png)
+Based on first book on the series [Knife of Never Letting Go](https://github.com/aaronkrishh/Network-Analysis-of-Chaos-Walking-Series/blob/main/Books/1_the_knife_of_never_letting_go_-__book_in_pdf__patrick_ness.txt), we are able to determine each nodes degree centrality of each node. The degree centrality reperesents how important each node is within the graph (A higher number indicates an important node) ![Alt text](Graphs\centraility_plot.png)
 
 We can also see that Viola, Todd and Manchee are most relevant relationships through out the book. Given they are the 3 main protagonist, it makes sense.![Alt text](relationship_plot.png)
 

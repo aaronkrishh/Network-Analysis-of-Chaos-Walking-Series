@@ -31,17 +31,17 @@ XNA was performed on the given txt files. Entities were detected using spacy and
 
 ### Other Graphs
 <details><summary></summary>
-  <a href="about.html" title="Knife of Never Letting Go">Knife of Never Letting Go</a>
+  <a href="https://github.com/aaronkrishh/Network-Analysis-of-Chaos-Walking-Series/blob/main/Network%20Graphs/images/Chaos1.png" title="Knife of Never Letting Go">Knife of Never Letting Go</a>
   <br>
-  <a href="about.html" title="The Ask and The Answer">The Ask and The Answer</a>
+  <a href="https://github.com/aaronkrishh/Network-Analysis-of-Chaos-Walking-Series/blob/main/Network%20Graphs/images/Chaos2.png" title="The Ask and The Answer">The Ask and The Answer</a>
   <br>
-  <a href="about.html" title="Monsters of Men">Monsters of Men</a>
+  <a href="https://github.com/aaronkrishh/Network-Analysis-of-Chaos-Walking-Series/blob/main/Network%20Graphs/images/Chaos3.png" title="Monsters of Men">Monsters of Men</a>
 </details>
 
 ### Findings
 Based on first book on the series [Knife of Never Letting Go](https://github.com/aaronkrishh/Network-Analysis-of-Chaos-Walking-Series/blob/main/Books/1_the_knife_of_never_letting_go_-__book_in_pdf__patrick_ness.txt), we are able to determine each nodes degree centrality of each node. The degree centrality reperesents how important each node is within the graph (A higher number indicates an important node). In the context of the study, this will tell us which characters are the most important throughout the series![Alt text](Graphs/centraility_plot.png)
 
-We can also see that Viola, Todd and Manchee are most relevant relationships through out the book. Given they are the 3 main protagonist, it makes sense.![Alt text](relationship_plot.png)
+We can also see that Viola, Todd and Manchee are most relevant relationships through out the book. Given they are the 3 main protagonist, it makes sense.![Alt text](Graphs/relationship_plot.png)
 
 ## Conclusion
 We are able to see the progress characters through out the series and how some character more or less relevant. Analyzing the 3 main characters (The Mayor, Todd and Voila), we can see that the main antagonist the Mayor became more prevelant as the series was coming to a conclusion. This matches the description of the story as the climax of the series is the battle between the Mayor and Todd.

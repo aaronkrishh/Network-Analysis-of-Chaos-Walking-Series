@@ -12,9 +12,9 @@
   * [Graph](#graph)
     + [Other Graphs](#other-graphs)
   * [Findings](#findings)
-- [Conclusion](conclusion)
-- [Next Steps](next-steps)
-- [Code and Resourced Used](code-and-resourced-used)
+- [Conclusion](#conclusion)
+- [Next Steps](#next-steps)
+- [Code and Resourced Used](#code-and-resourced-used)
 
 
 

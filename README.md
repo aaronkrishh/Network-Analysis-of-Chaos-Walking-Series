@@ -16,9 +16,9 @@
 XNA was performed on the given txt files. Entities were detected using spacy and were filtered leaving only characters Entities. Connections were also established between characters if 2 characters were mentioned within 5 sentences. 
 ![graph1](https://user-images.githubusercontent.com/79017977/210680872-97f78443-f916-4063-a9ed-c238b6ff9948.png)
 ###  Graphs
-[Knife of Never Letting Go]
-[The Ask and The Answer]
-[Monsters of Men]
+-[Knife of Never Letting Go](graph1.png)
+-[The Ask and The Answer](graph1.png)
+-[Monsters of Men](graph1.png)
 
 
 

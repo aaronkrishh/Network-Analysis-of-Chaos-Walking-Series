@@ -14,7 +14,7 @@
 
 ## Exploratory Network Analysis
 ### Findings
-Based on first book on the series [Knife of Never Letting Go](book1.txt), we can see that 
+Based on first book on the series [Knife of Never Letting Go](Books\1 the_knife_of_never_letting_go_-__book_in_pdf__patrick_ness.txt), we can see that 
 
 ### Graph
 XNA was performed on the given txt files. Entities were detected using spacy and were filtered leaving only characters Entities. Connections were also established between characters if 2 characters were mentioned within 5 sentences. 

@@ -7,9 +7,14 @@
 - Analyze the accuracy of graph based on the knowledge of reading the series.
 
 ## Dataset and Data Cleaning
-The data was scrapped using selenium and performed using this script. Information on how to scrape data from wiki fandom pages are found [here](https://chaoswalking.fandom.com/wiki/Category:Characters)
+- The data was scrapped using selenium and performed using this script. Information on how to scrape data from wiki fandom pages are found [here](https://chaoswalking.fandom.com/wiki/Category:Characters)
+- Data was filtered for unique characters and characters containing First and Last names were split into new columns. Abbreviations and punctuation were removed
+- Entities were detected for each sentence and converted into dataframe. Dataframe was then filtered with only character entitites
+- Relationships between 2 entitites within a 5 sentence rolling window were recorded and turned into a dataframe. 
 
 ## Exploratory Network Analysis
+XNA was performed on the given txt files. Entities were detected using spacy and were filtered leaving only characters Entities. Connections were also established between characters if 2 characters were mentioned within 5 sentences. 
+
 
 ## Code and Resourced Used
 - Python Version 3.8

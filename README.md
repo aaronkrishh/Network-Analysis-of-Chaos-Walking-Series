@@ -57,6 +57,6 @@ We are able to see the progress characters through out the series and how some c
 ## Code and Resourced Used
 - Python Version 3.8
 - Packages: Pandas, Numpy, Spacy, Seaborn, Matplotlib, Selenium, Regex, Spacy, Networkx
-- [[Character Data]](https://chaoswalking.fandom.com/wiki/Category:Characters)
+- [[Character Data]](https://github.com/aaronkrishh/Network-Analysis-of-Chaos-Walking-Series/blob/main/Data/characters.csv)
 - [[Structure and Formating of Project]](https://github.com/thu-vu92/the_witcher_network)
 
